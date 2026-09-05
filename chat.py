@@ -1,6 +1,3 @@
-"""
-chat.py - RAG retrieval + Gemini LLM answering for Incerro chatbot.
-"""
 import os
 from pathlib import Path
 
