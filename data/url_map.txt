@@ -1,0 +1,10 @@
+home.txt|https://www.incerro.ai/
+services.txt|https://www.incerro.ai/services
+about-us.txt|https://www.incerro.ai/about-us
+geographic-intelligence.txt|https://www.incerro.ai/products/geographic-intelligence
+4sight.txt|https://www.incerro.ai/products/4sight
+document-intelligence.txt|https://www.incerro.ai/products/document-intelligence
+data-intelligence.txt|https://www.incerro.ai/products/data-intelligence
+financial-intelligence.txt|https://www.incerro.ai/products/financial-intelligence
+mvp-insight.txt|https://www.incerro.ai/insights/the-new-rule-for-mvps-in-2026-build-to-learn-not-just-launch
+contact-us.txt|https://www.incerro.ai/contact-us
