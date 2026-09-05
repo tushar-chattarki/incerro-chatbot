@@ -1,7 +1,3 @@
-"""
-ingest.py - Chunks scraped text files and stores embeddings in ChromaDB.
-Uses Google Gemini embeddings if GEMINI_API_KEY is set, else Chroma default.
-"""
 import os
 import re
 from pathlib import Path
